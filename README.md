@@ -13,7 +13,7 @@ https://private-user-images.githubusercontent.com/35798678/608181851-70ff3433-76
 FertiMeter is a machine learning–based mobile application designed for early screening of Polycystic Ovary Syndrome (PCOS) using self-reportable symptoms. The app provides a simple and accessible way for women to assess their potential PCOS risk from home without requiring laboratory tests or clinical investigations.
 The screening model is developed using primary data collected from women in Bangladesh and is powered by a CatBoost machine learning algorithm trained on key symptom-based features associated with PCOS. FertiMeter is intended as an awareness and screening tool to support early identification and encourage timely medical consultation.
 
-Key Features:
+## Key Features:
  • Symptom-based PCOS risk screening
  • Lifestyle tracking
  • Educational resources on PCOS and women’s health
@@ -23,5 +23,5 @@ Key Features:
 
 FertiMeter is designed especially for resource-constrained settings where access to diagnostic facilities may be limited. By combining digital health technology with machine learning, the app aims to support early awareness, improve health-seeking behavior, and promote better women’s health outcomes.
 
-Disclaimer:
+### Disclaimer:
  FertiMeter is not a diagnostic tool and does not replace professional medical advice, diagnosis, or treatment. Users are encouraged to consult qualified healthcare professionals for proper clinical evaluation.
