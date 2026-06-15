@@ -3,18 +3,4 @@
 
 ## Demo Video
 
-https://github.com/ShahriyarHridoy/Fertimeter-App-Public-view/blob/main/redpandacompress_fertimeter_video.mp4
-
-<details>
-  <summary>📺 redpandacompress_fertimeter_video.mp4</summary>summary>
-
-<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background-color: #f6f8fa; padding: 12px;">
-    <video width="100%" height="480" controls style="border-radius: 6px;">
-          <source src="https://raw.githubusercontent.com/ShahriyarHridoy/Fertimeter-App-Public-view/main/redpandacompress_fertimeter_video.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-    </video>video>
-</div>div>
-
-</details>
-</summary>
-</details>
+https://private-user-images.githubusercontent.com/35798678/608181851-70ff3433-7623-4d8d-ae0f-3160fb7ca3a7.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE1NTY4MjQsIm5iZiI6MTc4MTU1NjUyNCwicGF0aCI6Ii8zNTc5ODY3OC82MDgxODE4NTEtNzBmZjM0MzMtNzYyMy00ZDhkLWFlMGYtMzE2MGZiN2NhM2E3Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE1VDIwNDg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwYmY4NTUxN2MxODcwMzZkZmMwZjY1YTUzZTdjOWRlMTAwNGY3Njg3NDdmNTA0N2JkODNmYmEyMzJjMDA3YTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.QhCL-SN2wA7FsvaXfpS703ovNbGkZo4PtwjZxSSl0a8
